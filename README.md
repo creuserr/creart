@@ -19,6 +19,9 @@ Download the file [`creart.py`](https://github.com/creuserr/creart/blob/main/dis
 from creart import CreArt
 ```
 
+> [!NOTE]
+> This library uses the dependency `requests`.
+
 # Documentation
 ## class `CreArt`
 This class includes 2 subclasses and 2 methods.
