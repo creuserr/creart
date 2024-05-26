@@ -63,7 +63,7 @@ images = artist.images
 # Returns a list of CreArt.Image instances
 ```
 
-## class `CreArt.Images`
+## class `CreArt.Image`
 This subclass includes 3 properties&ndash;the image url, width, and height.
 
 ```py
