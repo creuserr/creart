@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository is now archived and upgraded to `creuserr/crespot`. Please use that instead.
+
 # CreArt
 Lightweight and working API for fetching artists' image artwork and other informations, powered by Spotify.
 
